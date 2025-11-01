@@ -2,7 +2,7 @@ class Masuk < Formula
   desc "SSH host and port manager - save connection details with memorable names"
   homepage "https://github.com/herpiko/masuk"
   url "https://github.com/herpiko/masuk/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_SHA256_CHECKSUM"
+  sha256 "2b269ef6f080286b7c99e038f481455397c759f68a809c2f30341343d0788c33"
   license "MIT"
   head "https://github.com/herpiko/masuk.git", branch: "main"
 
