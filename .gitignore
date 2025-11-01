@@ -1,0 +1,17 @@
+# Homebrew tap gitignore
+
+# Bottles
+*.bottle.*
+
+# Build artifacts
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
